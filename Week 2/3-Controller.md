@@ -3,6 +3,7 @@ What's the different between the Edge AI Controller, Industrial PC, PLC, Microco
 Edge AI Controller: 
 Edge artificial intelligence (edge AI) is a paradigm for crafting AI workflows that span centralized data centers (the cloud) and devices outside the cloud that are closer to humans and physical things (the edge).
 
+![Edge AI controller](PR_ROScube-X_NV (002).jpeg)
 
 
 Industrial PC: 
