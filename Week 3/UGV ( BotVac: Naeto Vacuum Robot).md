@@ -1,4 +1,4 @@
-#The main concept in this chapter is to know the hardware component of a UGV robot
+# The main concept in this chapter is to know the hardware component of a UGV robot
 
 In this chapter, my teammates and i will operate a vacuum robot made by naeto which is the BotVac.
 
